@@ -1,7 +1,7 @@
 {
-  "name": "Pyrogram String Session Generator",
+  "name": "Night Vission Pyrogram String Session Generator",
   "description": "Telegram bot to generate pyrogram string session",
-  "logo": "https://telegra.ph/file/7731dea03cba10592bb62.jpg",
+  "logo": "https://te.legra.ph/file/a86b7e13e187af8bb58cc.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/DARKEMPIRESL/StringSessionBot",
+  "repository": "https://github.com/Captainamarica/Night-Vission-session-generator",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
       "required": false,
-      "value": "SLBotOfficial"
+      "value": "NightVission"
     }
   }
 }
