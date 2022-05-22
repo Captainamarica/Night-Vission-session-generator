@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/DARKEMPIRESL/StringSessionBot"><img src="https://telegra.ph/file/b20fd5dfc7cf46508593e.jpg" width="2000"></a></p>
+<p align="center"><a href="https://github.com/Captainamarica/Night-Vission-session-generator"><img src="https://te.legra.ph/file/a86b7e13e187af8bb58cc.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
@@ -12,7 +12,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKEMPIRESL/StringSessionBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Captainamarica/Night-Vission-session-generator)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -23,7 +23,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/DARKEMPIRESL/StringSessionBot
+   git clone https://github.com/Captainamarica/Night-Vission-session-generator
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
@@ -67,13 +67,13 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [@Team SL Bots🇱🇰](https://t.me/SLBotOfficial)
+Channel :- [@NIGHT VISSION BOTS🇱🇰](https://t.me/NightVission)
 
-Group Chat :- [@TR TECH GUIDE | SL Bots🇱🇰](https://t.me/trtechguide)
+Group Chat :- [SUPPORT CHAT🇱🇰](https://t.me/NightVissionSupport)
 
 ## Code Owner
 
-   [𝕯𝖆𝖗𝖐 𝕰𝖒𝖕𝖎𝖗𝖊](https://t.me/ImDark_Empire) - ``Owner``
+   [NAVANJANA](https://t.me/NA_VA_N_JA_NA1) - ``Owner``
    
 ## :)
 
