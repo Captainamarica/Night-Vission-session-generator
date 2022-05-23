@@ -2,7 +2,7 @@
 
 > A star from you means a lot to us!
 
-<p align="center"><a href="https://github.com/Captainamarica/Night-Vission-session-generator"><img src="https://te.legra.ph/file/a86b7e13e187af8bb58cc.jpg" width="2000"></a></p>
+<p align="center"><a href="https://github.com/Captainamarica/Night-Vission-session-generator"><img src="https://telegra.ph/file/e6da924675d210cc8f795.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
