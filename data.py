@@ -50,7 +50,7 @@ By @NightVission
     ABOUT = """
 **About This Bot** 
 
-Telegram Bot to generate Pyrogram and Telethon string session by @NA_VA_N_JA_NA1
+Telegram Bot to generate Pyrogram and Telethon string session by @NightVission_SessongenBot
 
 Source Code : [Click Here](https://github.com/Captainamarica/Night-Vission-session-generator)
 
