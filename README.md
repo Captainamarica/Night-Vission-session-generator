@@ -1,4 +1,4 @@
-# NIGHT VISSION SESSION GEN BOT [@darkStringGenBot](https://t.me/darkStringGenBot)
+# NIGHT VISSION SESSION GEN BOT [NIGHT VISSION GEN BOT](http://t.me/NightVission_SessongenBot)
 
 > A star from you means a lot to us!
 
