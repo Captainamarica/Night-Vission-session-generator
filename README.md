@@ -1,6 +1,6 @@
-# Pyrogram and Telethon String Session Bot [@darkStringGenBot](https://t.me/darkStringGenBot)
+# NIGHT VISSION SESSION GEN BOT [@darkStringGenBot](https://t.me/darkStringGenBot)
 
-> A star ⭐ from you means a lot to us!
+> A star from you means a lot to us!
 
 <p align="center"><a href="https://github.com/Captainamarica/Night-Vission-session-generator"><img src="https://te.legra.ph/file/a86b7e13e187af8bb58cc.jpg" width="2000"></a></p>
 
