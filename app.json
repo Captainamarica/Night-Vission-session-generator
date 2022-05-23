@@ -1,7 +1,7 @@
 {
-  "name": "Night Vission Pyrogram String Session Generator",
+  "name": "Night Vission String Session Generator",
   "description": "Telegram bot to generate pyrogram string session",
-  "logo": "https://te.legra.ph/file/a86b7e13e187af8bb58cc.jpg",
+  "logo": "https://telegra.ph/file/e6da924675d210cc8f795.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -35,22 +35,22 @@
     "API_ID": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
-      "value": ""
+      "value": "16884543"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
-      "value": ""
+      "value": "cc4535cefe1fa2e167d75a5e2ac24246"
     },
     "BOT_TOKEN": {
       "description": "Obtain a Telegram bot token by contacting @BotFather",
       "required": true,
-      "value": ""
+      "value": "5308618736:AAF2eYuRHz7IrO-PtuS91AM397trNGmKmdo"
     },
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
       "required": false,
-      "value": "NightVission"
+      "value": "@NightVission"
     }
   }
 }
